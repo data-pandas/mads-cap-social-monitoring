@@ -9,8 +9,9 @@ Our project is broken down into 5 steps: collecting raw data, curating our own l
 ## Please see our blog for a walkthrough of this project. Link:
 
 ## Requirements
-Please see requirements.txt for requirements. In most cases, the installation of Anaconda is enough to run all the the notebooks. 
+Please see requirements.txt for the exact version of the packages.Installing Anacondo installs most of the packages. All remaining packages can be installed using pip. 
 
+The following packages are built into anaconda: Ipython, jupyter_client, jupyter_core, jupyterlab, matplotlib, notebook, numpy, pandas, python, scipy, seaborn, sklearn. The following packages are NOT built into sklearn and would need to be installed using pip: catboost, datasets, gensim, joblib, nltk, pysentimento, sentence_transformers, snscrape, torch, tranformers, tqdm. 
 
 ## Explanation of Notebooks
 ### Inside the Scraping, Labeling, Preprocessing, Cleaning folder
