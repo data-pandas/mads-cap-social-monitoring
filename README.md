@@ -13,13 +13,16 @@ Please see requirements.txt for requirements. In most cases, the installation of
 
 
 ## Explanation of Notebooks
+### Inside the Scraping, Labeling, Preprocessing, Cleaning folder
 * ScrapingTool.ipynb is used to scrape twitter data 
 * LabelingTool.ipynb and LabelingToolWithSplit.ipynb are our custom tool used to label the data in batches 
 * labeled_csv_merging.ipynb is used to merge all of the csv files into one dataframe
 * Preprocessing.ipynb is used to lowercase, lemmatize, remove stop words, etc.
-* NaiveBayes_LogisticRegression_KNN_MLP.ipynb is used to test sklearn classifiers
-* catboost_classifier.ipynb, decision_tree.ipynb, random_forest.ipynb, sgd_classifer.ipynb and svc_classifier.ipynb are also used to test sklearn classifiers
-* bert_fine_tine.ipynb is used for the BERT model (Deleted)
-* LDA.ipynb, Latent_Semantic_Indexing.ipynb, Non-negative_Matrix_Factorization.ipynb are used to test the topic modeling algorithms 
+### Inside the Classification folder
+* bert_base_uncased.ipynb is used for the BERT model and the final choosen model for the dashboard
+* catboost_classifier.ipynb, decision_tree.ipynb, NaiveBayes_LogisticRegression_KNN_MLP.ipynb, random_forest.ipynb, sgd_classifer.ipynb and svc_classifier.ipynb are also used to test sklearn classifiers
+### Inside the Topic Modeling folder
+* LDA.ipynb and Latent_Semantic_Indexing.ipynb are used to test the topic modeling algorithms 
+* Non-negative_Matrix_Factorization.ipynb is used for topic modeling and is the final choosen model for the dashboard
 
 ## Citations
