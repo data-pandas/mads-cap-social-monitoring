@@ -6,7 +6,7 @@ Our project leverages supervised & unsupervised learning to build an ML applicat
 
 Our project is broken down into 5 steps: collecting raw data, curating our own labeled dataset, training and selecting among various classification algorithms for emotion classification, applying unsupervised learning algorithms for topic modeling, and last but not least, creating a pipeline to automate the entire process from data collection to the final dashboard.
 
-## Please see our blog for a walkthrough of this project. Link:
+## Please see our blog for a walkthrough of [this project](https://data-pandas.github.io/)
 
 ## Requirements
 Please see requirements.txt for the exact version of the packages. Installing Anacondo installs most of the packages. All remaining packages can be installed using pip. 
