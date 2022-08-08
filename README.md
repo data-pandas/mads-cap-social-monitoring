@@ -6,7 +6,9 @@ Our project leverages supervised & unsupervised learning to build an ML applicat
 
 Our project is broken down into 5 steps: collecting raw data, curating our own labeled dataset, training and selecting among various classification algorithms for emotion classification, applying unsupervised learning algorithms for topic modeling, and last but not least, creating a pipeline to automate the entire process from data collection to the final dashboard.
 
-## Please see our [blog](https://data-pandas.github.io/) for a walkthrough of this project
+[View The Full Paper.](https://data-pandas.github.io/)
+[View The Live Social Monitoring Dashboard.](https://datastudio.google.com/reporting/a4c30862-1f6f-4c55-9844-375b9039ecf8)
+
 ## Requirements
 Please see requirements.txt for the exact version of the packages. Installing Anacondo installs most of the packages. All remaining packages can be installed using pip. 
 
@@ -28,3 +30,6 @@ The following packages are NOT built into sklearn and would need to be installed
 * Non-negative_Matrix_Factorization.ipynb is used for topic modeling and is the final choosen model for the dashboard
 
 ## Citations
+Clark, K., Khandelwal, U., Levy, O., & Manning, C. D. (2019). What does bert look at? an analysis of bert's attention. arXiv preprint arXiv:1906.04341.  
+Furtado, C., & Tiu, J. (2021, July 26). Foodpanda Thailand reportedly loses 2 million users. Tech in Asia. https://www.techinasia.com/foodpanda-thailand-reportedly-loses-2m-user-accounts-after-social-media-outburst  
+Sun, C., Qiu, X., Xu, Y., & Huang, X. (2019). How to fine-tune bert for text classification? China national conference on Chinese computational linguistics.
