@@ -10,7 +10,7 @@ Our project is broken down into 5 steps: collecting raw data, curating our own l
 [Click here to view the Live Social Monitoring Dashboard.](https://datastudio.google.com/reporting/a4c30862-1f6f-4c55-9844-375b9039ecf8)  
 
 ## Requirements
-Please see requirements.txt for the exact version of the packages. Installing Anacondo installs most of the packages. All remaining packages can be installed using pip. 
+Please see the `requirements.txt` for the exact version of the packages. Installing Anacondo installs most of the packages. All remaining packages can be installed using pip. 
 
 The following packages are built into anaconda: Ipython, jupyter_client, jupyter_core, jupyterlab, matplotlib, notebook, numpy, pandas, python, scipy, seaborn, sklearn. 
 
@@ -31,5 +31,4 @@ The following packages are NOT built into sklearn and would need to be installed
 
 ## Citations
 * Clark, K., Khandelwal, U., Levy, O., & Manning, C. D. (2019). What does bert look at? an analysis of bert's attention. arXiv preprint arXiv:1906.04341.  
-* Furtado, C., & Tiu, J. (2021, July 26). Foodpanda Thailand reportedly loses 2 million users. Tech in Asia. https://www.techinasia.com/foodpanda-thailand-reportedly-loses-2m-user-accounts-after-social-media-outburst  
 * Sun, C., Qiu, X., Xu, Y., & Huang, X. (2019). How to fine-tune bert for text classification? China national conference on Chinese computational linguistics.
