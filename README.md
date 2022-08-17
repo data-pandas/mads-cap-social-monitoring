@@ -7,7 +7,7 @@ Our project leverages supervised & unsupervised learning to build an ML applicat
 Our project is broken down into 5 steps: collecting raw data, curating our own labeled dataset, training and selecting among various classification algorithms for emotion classification, applying unsupervised learning algorithms for topic modeling, and last but not least, creating a pipeline to automate the entire process from data collection to the final dashboard.
 
 [Click here to read the full paper.](https://data-pandas.github.io/)  
-[Click here to view the Live Social Monitoring Dashboard.](https://datastudio.google.com/reporting/a4c30862-1f6f-4c55-9844-375b9039ecf8)  
+[Click here to view the Live Social Monitoring Dashboard.](https://datastudio.google.com/reporting/c8b5e9f2-4760-4417-a958-e069552b9f69)  
 
 ## Requirements
 Please see the `requirements.txt` for the exact version of the packages. Installing Anaconda installs most of the packages. All remaining packages can be installed using pip. 
