@@ -23,7 +23,7 @@ The following packages are NOT built into sklearn and would need to be installed
 * labeled_csv_merging.ipynb is used to merge all of the csv files into one dataframe
 * Preprocessing.ipynb is used to lowercase, lemmatize, remove stop words, etc.
 ### Inside the Classification folder
-* bert_base_uncased.ipynb is used for the BERT model and the final chosen model for the dashboard, referring to the following webpages: [huggingface tutorial](https://huggingface.co/docs/transformers/training), [huggingface trainer documentation](https://huggingface.co/docs/transformers/main_classes/trainer) and [colab tutorial](https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/master/BERT/Fine_tuning_BERT_(and_friends)_for_multi_label_text_classification.ipynb)
+* bert_fine_tune.ipynb is used for the BERT model and the final chosen model for the dashboard, referring to the following webpages: [huggingface tutorial](https://huggingface.co/docs/transformers/training), [huggingface trainer documentation](https://huggingface.co/docs/transformers/main_classes/trainer) and [colab tutorial](https://colab.research.google.com/github/NielsRogge/Transformers-Tutorials/blob/master/BERT/Fine_tuning_BERT_(and_friends)_for_multi_label_text_classification.ipynb), you can also edit in the [colab](https://colab.research.google.com/drive/18Y4HWardtu3V3kPonYLix4Q7FTzpNCNw#scrollTo=On21orTJIkPD).
 * catboost_classifier.ipynb, decision_tree.ipynb, NaiveBayes_LogisticRegression_KNN_MLP.ipynb, random_forest.ipynb, sgd_classifer.ipynb and svc_classifier.ipynb are also used to test sklearn classifiers
 ### Inside the Topic Modeling folder
 * LDA.ipynb and Latent_Semantic_Indexing.ipynb are used to test the topic modeling algorithms 
