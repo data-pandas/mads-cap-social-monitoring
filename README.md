@@ -8,6 +8,7 @@ Our project is broken down into 5 steps: collecting raw data, curating our own l
 
 [Click here to read the full paper.](https://data-pandas.github.io/)  
 [Click here to view the Live Social Monitoring Dashboard.](https://datastudio.google.com/reporting/c8b5e9f2-4760-4417-a958-e069552b9f69)  
+[Click here for a video walkthrough of the dashboard.](https://youtu.be/DUZgPvu9iAY) 
 
 ## Requirements
 Please see the `requirements.txt` for the exact version of the packages. Installing Anaconda installs most of the packages. All remaining packages can be installed using pip. 
